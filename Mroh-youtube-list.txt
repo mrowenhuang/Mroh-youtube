@@ -3,3 +3,9 @@ Youtube List song
 ~ song 2
 ~ song 3
 ~ song 4
+
+Youtube Jadwal Upload 
+~ song 1 19/12/2022
+~ song 2 20/12/2022
+~ song 3 21/12/2022
+~ song 4 22/12/2022
